@@ -40,7 +40,7 @@ CyberSentinel-AI/
 ├── chatbot.py              # OpenAI-powered explanation system
 ├── packet\_sniffer.py       # Live packet sniffing and detection
 ├── requirements.txt        # Dependencies
-├── .env                    # (Not tracked) Contains API keys
+├── .env                    
 └── data/
 └── anomalies.db        # Local anomaly log database
 
